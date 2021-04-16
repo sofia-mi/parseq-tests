@@ -1,0 +1,2 @@
+export const SET_VARIANTS = 'SET_VARIANTS';
+export const SET_DOWNLOADING = 'SET_DOWNLOADING';

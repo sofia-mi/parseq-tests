@@ -1,0 +1,1 @@
+export const FETCH_VARIANTS = 'FETCH_VARIANTS';
